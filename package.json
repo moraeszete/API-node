@@ -1,19 +1,7 @@
 {
   "dependencies": {
-    "avvio": "^8.2.1",
     "dotenv": "^16.3.1",
     "fastify": "^4.23.2",
-    "postgres": "^3.3.5"
-  },
-  "scripts": {
-    "start": "npm run start"
-  },
-  "name": "api-node",
-  "version": "1.0.0",
-  "main": "server.js",
-  "type": "module",
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": ""
+    "node.js": "^0.0.1-security"
+  }
 }
