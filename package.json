@@ -8,7 +8,7 @@
   "scripts": {
     "start": "npm run start"
   },
-  "name": "API-node",
+  "name": "api-node",
   "version": "1.0.0",
   "main": "server.js",
   "type": "module",
