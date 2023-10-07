@@ -6,9 +6,9 @@
     "postgres": "^3.3.5"
   },
   "scripts": {
-    "start": "node server.js"
+    "start": "npm run start"
   },
-  "name": "estudando-js",
+  "name": "API-node",
   "version": "1.0.0",
   "main": "server.js",
   "type": "module",
