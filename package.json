@@ -5,7 +5,7 @@
     "node.js": "^0.0.1-security"
   },
   "scripts": {
-    "start": "npm start run"
+    "start": "npm node server.js"
     
   },
   "name": "api-node",
