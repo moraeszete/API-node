@@ -1,4 +1,4 @@
-POST http://localhost:1234/videos
+POST https://api-node-0yc2.onrender.com/videos
 Content-Type: application/json 
 
 {
@@ -9,13 +9,13 @@ Content-Type: application/json
 
 ### 
 
-GET http://localhost:1234/videos
-// http://localhost:1234/videos?search=node 
+GET https://api-node-0yc2.onrender.com/videos
+// https://api-node-0yc2.onrender.com/videos?search=node 
 
 
 ###
 
-PUT http://localhost:1234/videos/52c23418-0b6b-4b62-878f-07cd330225f7
+PUT https://api-node-0yc2.onrender.com/videos/52c23418-0b6b-4b62-878f-07cd330225f7
 Content-Type: application/json 
 
 {
@@ -27,6 +27,6 @@ Content-Type: application/json
 
 ###
 
-DELETE http://localhost:1234/videos/52c23418-0b6b-4b62-878f-07cd330225f7
+DELETE https://api-node-0yc2.onrender.com/videos/52c23418-0b6b-4b62-878f-07cd330225f7
 
 ###
