@@ -27,6 +27,5 @@ Content-Type: application/json
 
 ###
 
-DELETE https://api-node-0yc2.onrender.com/videos/52c23418-0b6b-4b62-878f-07cd330225f7
-
+DELETE https://api-node-0yc2.onrender.com/videos/
 ###
